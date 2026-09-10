@@ -1,19 +1,209 @@
-<h1 align="center">Hi 👋, I'm Mohammed Yaseen</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hi 👋, I'm Mohammed Yaseen
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedyaseenkalvium" alt="mohammedyaseenkalvium" /></a> </p>
+### Full-Stack Developer | Data Analytics | GenAI & LLMs
 
-- 🔭 I’m currently working on **userve**
+I build practical software that solves real-world problems — from full-stack web applications and backend systems to data-driven applications and AI-powered tools.
 
-- 👯 I’m looking to collaborate with **you people**
+Currently focused on building projects that demonstrate **real engineering skills, not just tutorials.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🚀 What I Build
+
+💻 **Frontend & Full-Stack**
+- Modern responsive web applications
+- Authentication & authorization
+- REST APIs
+- Database-driven applications
+- Production-style UI/UX
+
+⚙️ **Backend Engineering**
+- Scalable APIs
+- Database architecture
+- Authentication systems
+- API integrations
+- Backend services
+
+📊 **Data Analytics**
+- Data cleaning & transformation
+- Exploratory data analysis
+- SQL analytics
+- Business dashboards
+- Data-driven decision making
+
+🤖 **GenAI & LLM**
+- AI-powered applications
+- RAG systems
+- LLM integrations
+- AI agents
+- Document intelligence
+- Vector databases & embeddings
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cs,python,java,js,ts,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedyaseenkalvium&show_icons=true&locale=en&layout=compact" alt="mohammedyaseenkalvium" /></p>
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedyaseenkalvium&show_icons=true&locale=en" alt="mohammedyaseenkalvium" /></p>
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Pandas • NumPy • Scikit-learn • LangChain • LLM APIs • RAG • Vector Databases**
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 💻 Full-Stack Applications
+
+### 🌿 Flora Curtains
+A production-style e-commerce platform for a curtains business.
+
+**Focus:**  
+`Next.js` `TypeScript` `React` `Database` `Authentication` `API`
+
+- Product discovery and catalog
+- Responsive UI
+- Customer workflows
+- Admin functionality
+- Backend integration
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+### 🚨 Rescue Coordination Platform
+
+A centralized platform designed to coordinate rescue agencies during natural or man-made disasters.
+
+**Focus:**  
+`Full Stack` `Maps` `Real-Time Location` `APIs` `Database`
+
+- Agency registration
+- Real-time location sharing
+- Resource tracking
+- Emergency alerts
+- Interactive maps
+- Secure communication
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+# 📊 Data Analytics Projects
+
+### 📈 Sales & Business Analytics
+
+An end-to-end analytics project transforming raw business data into actionable insights.
+
+**Tools:**  
+`Python` `Pandas` `SQL` `Power BI`
+
+- Data cleaning
+- Exploratory analysis
+- KPI development
+- Customer analysis
+- Revenue trends
+- Interactive dashboard
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+### 🛒 Customer & E-Commerce Analytics
+
+Analysis of customer purchasing behaviour to identify revenue opportunities and customer segments.
+
+**Tools:**  
+`Python` `SQL` `Pandas` `Power BI`
+
+- Customer segmentation
+- RFM analysis
+- Sales trends
+- Product performance
+- Customer retention analysis
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+# 🤖 GenAI & LLM Projects
+
+### 🧠 AI Knowledge Assistant
+
+A RAG-based AI assistant that allows users to ask questions about their own documents.
+
+**Stack:**  
+`Python` `LLM` `RAG` `Embeddings` `Vector Database`
+
+Features:
+
+- Document ingestion
+- Text chunking
+- Embeddings
+- Semantic search
+- Context-aware answers
+- Source referencing
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+### 🤖 AI-Powered Developer Assistant
+
+An AI application designed to help developers understand, analyze and work with codebases.
+
+**Stack:**  
+`Python` `LLM APIs` `RAG` `Next.js`
+
+Features:
+
+- Codebase analysis
+- File-aware conversations
+- Code explanation
+- Error analysis
+- Documentation generation
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+# 📚 Currently Learning
+
+```text
+Advanced Data Structures & Algorithms
+        ↓
+Backend Architecture
+        ↓
+System Design
+        ↓
+Cloud & Docker
+        ↓
+RAG & LLM Applications
+        ↓
+AI Agents
